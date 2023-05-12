@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar compra en swaglabs" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-12T14:03:07" hostname="LAPTOP-V8REUEIT" time="124.137">
+  <properties/>
+  <testcase name="Realizar proceso de compra en la aplicacion" classname="Realizar compra en swaglabs" time="124.137"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[may 12, 2023 9:03:28 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Realizar proceso de compra en la aplicacion
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

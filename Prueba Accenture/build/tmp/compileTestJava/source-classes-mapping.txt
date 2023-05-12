@@ -1,0 +1,4 @@
+co/com/accenture/certification/swaglabs/stepdefinitions/CompraStepDefinitions.java
+ co.com.accenture.certification.swaglabs.stepdefinitions.CompraStepDefinitions
+co/com/accenture/certification/swaglabs/runner/PruebaCompra.java
+ co.com.accenture.certification.swaglabs.runner.PruebaCompra
